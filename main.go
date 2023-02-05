@@ -2,7 +2,7 @@ package main
 
 import (
   "fmt"
-  "example.com/wheel"
+  "github.com/mmingdai/go_play/wheel"
 )
 
 func main() {
